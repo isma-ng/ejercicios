@@ -28,6 +28,7 @@ alert("hola como estas?")
 **Consigna**: Mostrar el resultado de 3 + 5.  
 **Solución**: 
 "javascript"
+
 document.writeln("3+5 = " + (3 + 5))
 
 ### 🔵 Ejercicio 4: Saludo Personalizado
