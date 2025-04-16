@@ -1,1 +1,0 @@
-document.writeln("<h1>hola mundo bello</h1>")
