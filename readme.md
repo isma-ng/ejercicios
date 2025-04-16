@@ -107,6 +107,7 @@ else {
     }
 }
 
+
 🛠️ Cómo Usar
 Copia cada solución en un archivo HTML:
 
@@ -114,11 +115,13 @@ Copia cada solución en un archivo HTML:
   // Código del ejercicio aquí
 </script>
 
+
 📚 Recursos Adicionales
 
 https://developer.mozilla.org/es/docs/Web/JavaScript/Guide
 
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+
 
 🤝 ¿Quieres Contribuir?
 ¡Se aceptan mejoras! Sigue estos pasos:
@@ -132,6 +135,7 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/pa
 4.Haz push a la rama (git push origin mejora-ejercicios)
 
 5.Abre un Pull Request
+
 
 📄 Licencia
 MIT © [ismael isa]
