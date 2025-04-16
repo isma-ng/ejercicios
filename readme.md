@@ -34,6 +34,7 @@ document.writeln("3+5 = " + (3 + 5))
 **Consigna**:Pedir nombre con prompt y mostrar "Hola [nombre]".
 **Solución**: 
 "javascript"
+
 const nombreUsuario = prompt("¿Cuál es tu nombre?");
 alert("Hola " + nombreUsuario);
 
@@ -41,6 +42,7 @@ alert("Hola " + nombreUsuario);
 **Consigna**:  Pedir dos números y mostrar su suma.
 **Solución**: 
 "javascript"
+
 let numero1 = +prompt ("escribe un numero");
 let numero2 = +prompt ("escribe un numero");
 alert('el resultado es ' + ( numero1 + numero2 ));
@@ -49,6 +51,7 @@ alert('el resultado es ' + ( numero1 + numero2 ));
 **Consigna**: Identificar el mayor entre dos números.
 **Solución**: 
 "javascript"
+
 const numero1 = +(prompt("Ingrese primer número:"));
 const numero2 = +(prompt("Ingrese segundo número:"));
 
@@ -64,6 +67,7 @@ if (numero1 > numero2) {
 **Consigna**:  Encontrar el mayor entre tres números.
 **Solución**: 
 "javascript"
+
 const num1 = +(prompt("Ingrese primer número:"));
 const num2 = +(prompt("Ingrese segundo número:"));
 const num3 = +(prompt("Ingrese tercer número:"));
@@ -76,6 +80,7 @@ alert(`Números ingresados: ${num1}, ${num2}, ${num3}\nEl mayor es: ${mayor}`);
 **Consigna**:   Verificar si un número es divisible por 2.
 **Solución**: 
 "javascript"
+
 const numero = prompt('Ingrese un número y te digo si es divisible por 2:');
 const num2 = Number(numero);
 
