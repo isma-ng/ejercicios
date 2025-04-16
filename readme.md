@@ -100,9 +100,9 @@ if (isNaN(num2)) {
 else {
     if (num2 % 2 === 0) {
         alert(`El número ${num2} si es divisible por 2`);
-    } 
-    
-    else {
+    }   
+   
+   else {
         alert(`El número ${num2} no es divisible por 2`);
     }
 }
