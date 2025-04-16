@@ -21,7 +21,7 @@ alert("hola como estas?")
 **Solución**: 
 "javascript"
 
-"document.writeln("<h1>hola mundo bello</h1>")"
+"document.writeln("<h>hola mundo bello</h>")"
 
 
 ### 🔵 Ejercicio 3: suma simple
