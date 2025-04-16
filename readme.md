@@ -46,7 +46,9 @@ alert("Hola " + nombreUsuario);
 "javascript"
 
 let numero1 = +prompt ("escribe un numero");
+
 let numero2 = +prompt ("escribe un numero");
+
 alert('el resultado es ' + ( numero1 + numero2 ));
 
 ### 🔵 Ejercicio 6: Comparacio de número
@@ -55,14 +57,18 @@ alert('el resultado es ' + ( numero1 + numero2 ));
 "javascript"
 
 const numero1 = +(prompt("Ingrese primer número:"));
+
 const numero2 = +(prompt("Ingrese segundo número:"));
 
 if (numero1 > numero2) {
     alert((numero1) + " es mayor que " + (numero2));
+    
 } else if (numero2 > numero1) {
     alert((numero2) + " es mayor que " + (numero1));
+    
 } else {
     alert("Ambos números son iguales");
+    
 }
 
 ### 🔵 Ejercicio 7: El mayor de 3
