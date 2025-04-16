@@ -21,7 +21,7 @@ alert("hola como estas?")
 **Solución**: 
 "javascript"
 
-"document.writeln("<h>hola mundo bello</h>")"
+document.writeln("<h>hola mundo bello</h>")
 
 
 ### 🔵 Ejercicio 3: suma simple
@@ -37,6 +37,7 @@ document.writeln("3+5 = " + (3 + 5))
 "javascript"
 
 const nombreUsuario = prompt("¿Cuál es tu nombre?");
+
 alert("Hola " + nombreUsuario);
 
 ### 🔵 Ejercicio 5: suma de 2 numeros
