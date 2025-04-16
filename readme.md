@@ -13,6 +13,7 @@ Colección de ejercicios fundamentales para practicar el manejo de variables en 
 **Consigna**: Programa de una línea que muestre un alert con "un mensaje".  
 **Solución**: 
 "javascript"
+
 alert("hola como estas?")
 
 ### 🔵 Ejercicio 2: hello word
@@ -89,11 +90,13 @@ if (isNaN(num2)) {
 
 🛠️ Cómo Usar
 Copia cada solución en un archivo HTML:
+
 <script>
   // Código del ejercicio aquí
 </script>
 
 📚 Recursos Adicionales
+
 https://developer.mozilla.org/es/docs/Web/JavaScript/Guide
 
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/parseInt
