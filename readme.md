@@ -139,4 +139,4 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/pa
 
 📄 Licencia
 MIT © [ismael isa]
-mi Githab: https://github.com/isma-ng
+mi Github: https://github.com/isma-ng
