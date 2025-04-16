@@ -20,7 +20,8 @@ alert("hola como estas?")
 **Consigna**: Mostrar "Hello World" con document.write.
 **Solución**: 
 "javascript"
-document.writeln("<h1>hola mundo bello</h1>")
+
+"document.writeln("<h1>hola mundo bello</h1>")"
 
 
 ### 🔵 Ejercicio 3: suma simple
